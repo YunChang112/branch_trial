@@ -1,1 +1,2 @@
 This is fast, this is slow.
+This is fast again, this is slow again.
