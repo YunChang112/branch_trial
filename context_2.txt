@@ -1,1 +1,2 @@
 This is great, this is not great.
+This is second great, this is second not great.
